@@ -46,7 +46,7 @@ JavaScript • TypeScript • Java • Python
 Node.js • Express • REST APIs  
 
 **Frontend**  
-React  
+Angular  
 
 **Data**  
 SQL • NoSQL  
