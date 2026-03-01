@@ -34,7 +34,6 @@ Alongside my core role, I actively invest time in **system design, data-driven p
 - Backend architecture & system design  
 - Data visualization and insight-driven products  
 - AI/ML fundamentals with practical, product-oriented use cases  
-- Building portfolio projects with real-world engineering standards  
 
 ---
 
